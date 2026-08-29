@@ -2,6 +2,7 @@
 
 [![Repo](https://img.shields.io/badge/GitHub-life--calculator-181717?logo=github)](https://github.com/andy1220-droid/life-calculator)
 [![CI](https://github.com/andy1220-droid/life-calculator/actions/workflows/ci.yml/badge.svg)](https://github.com/andy1220-droid/life-calculator/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
