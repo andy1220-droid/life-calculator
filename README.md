@@ -1,5 +1,13 @@
 # 라이프 계산기 (Life Calculator)
 
+[![Repo](https://img.shields.io/badge/GitHub-life--calculator-181717?logo=github)](https://github.com/andy1220-droid/life-calculator)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
+
+**저장소**: https://github.com/andy1220-droid/life-calculator
+
 단위 변환, 금융(복리, 세금, 대출), 디데이 등 일상생활에 필수적인 모든 계산을 한곳에서 직관적으로 처리하는 로컬 기반 올인원 웹 서비스입니다.
 
 ## 기능
