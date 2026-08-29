@@ -37,6 +37,8 @@ npm install
 npm run dev      # 개발 서버 (http://localhost:5173)
 npm run build    # 프로덕션 빌드
 npm run lint     # oxlint
+npm run test     # 테스트 실행 (Vitest)
+npm run test:coverage  # 커버리지 리포트 생성 (coverage/index.html)
 ```
 
 ## 폴더 구조
