@@ -29,6 +29,7 @@
 - Tailwind CSS + shadcn/ui (Base UI 기반)
 - Zustand (Local Storage persist)
 - dayjs, decimal.js
+- Vitest + React Testing Library (커버리지: @vitest/coverage-v8)
 
 ## 시작하기
 
